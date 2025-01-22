@@ -32,7 +32,7 @@ This will give the following output:
 
 Filename: SINEWAVE2.bas  <br/>
 File Size in Bytes is 171  <br/>
-Converting to Tec format  <br/>
+Converting to Tek format  <br/>
 New file size : 160  <br/>
 Writing Tektronix 4051 emulator flash drive format file...  <br/>
 New Filename: 1      ASCII   PROG SINEWAVE2 160  <br/>
