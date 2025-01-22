@@ -34,7 +34,7 @@ Filename: SINEWAVE2.bas  <br/>
 File Size in Bytes is 171  <br/>
 Converting to Tec format  <br/>
 New file size : 160  <br/>
-Writing Tectronix 4051 emulator flash drive format file...  <br/>
+Writing Tektronix 4051 emulator flash drive format file...  <br/>
 New Filename: 1      ASCII   PROG SINEWAVE2 160  <br/>
 
 You can then import the file ' 1      ASCII   PROG SINEWAVE2 160' into the emulator and use the AUTO LOAD button or type the usual:
